@@ -16,6 +16,7 @@ namespace tpModul3_103022330070
         public Form1()
         {
             InitializeComponent();
+            label2.Visible = false;
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -25,7 +26,9 @@ namespace tpModul3_103022330070
 
         private void button2_Click(object sender, EventArgs e)
         {
-            
+            label2.Visible = true;
+            String namaPraktikan = textBox1.Text;
+            label2.Text = "Hello " + namaPraktikan;
         }
 
         private void label1_Click(object sender, EventArgs e)
