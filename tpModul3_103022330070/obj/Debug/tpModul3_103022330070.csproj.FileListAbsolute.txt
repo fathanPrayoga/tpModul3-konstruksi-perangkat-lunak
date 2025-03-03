@@ -1,0 +1,10 @@
+C:\Users\ASUS\visualStudio_source\tpModul3_103022330070\tpModul3_103022330070\obj\Debug\tpModul3_103022330070.csproj.AssemblyReference.cache
+C:\Users\ASUS\visualStudio_source\tpModul3_103022330070\tpModul3_103022330070\obj\Debug\tpModul3_103022330070.Form1.resources
+C:\Users\ASUS\visualStudio_source\tpModul3_103022330070\tpModul3_103022330070\obj\Debug\tpModul3_103022330070.Properties.Resources.resources
+C:\Users\ASUS\visualStudio_source\tpModul3_103022330070\tpModul3_103022330070\obj\Debug\tpModul3_103022330070.csproj.GenerateResource.cache
+C:\Users\ASUS\visualStudio_source\tpModul3_103022330070\tpModul3_103022330070\obj\Debug\tpModul3_103022330070.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\visualStudio_source\tpModul3_103022330070\tpModul3_103022330070\bin\Debug\tpModul3_103022330070.exe.config
+C:\Users\ASUS\visualStudio_source\tpModul3_103022330070\tpModul3_103022330070\bin\Debug\tpModul3_103022330070.exe
+C:\Users\ASUS\visualStudio_source\tpModul3_103022330070\tpModul3_103022330070\bin\Debug\tpModul3_103022330070.pdb
+C:\Users\ASUS\visualStudio_source\tpModul3_103022330070\tpModul3_103022330070\obj\Debug\tpModul3_103022330070.exe
+C:\Users\ASUS\visualStudio_source\tpModul3_103022330070\tpModul3_103022330070\obj\Debug\tpModul3_103022330070.pdb
